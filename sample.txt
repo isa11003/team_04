@@ -1,3 +1,5 @@
 This is a sample text file for use in the team activity.
 
 This text was typed inside the git hub repository, not on my local machine.
+
+Making changes
